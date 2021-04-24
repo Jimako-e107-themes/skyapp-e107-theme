@@ -11,7 +11,7 @@
 
 ## Status
 
-Released version 1.0.0
+Released version 2.0.1
 
 ## Download and Installation
 
